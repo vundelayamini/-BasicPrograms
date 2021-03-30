@@ -8,6 +8,9 @@ namespace BasicProgramsDemo
         {
             ReplaceString.ReadInput();
             Console.Read();
+            FlipCoin flip = new FlipCoin();
+            flip.ReadInput();
+            Console.Read();
         } 
     }
 }
