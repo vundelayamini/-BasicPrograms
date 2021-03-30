@@ -1,0 +1,12 @@
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\obj\Debug\netcoreapp2.1\BasicProgramsDemo.csprojAssemblyReference.cache
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\obj\Debug\netcoreapp2.1\BasicProgramsDemo.AssemblyInfoInputs.cache
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\obj\Debug\netcoreapp2.1\BasicProgramsDemo.AssemblyInfo.cs
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\obj\Debug\netcoreapp2.1\BasicProgramsDemo.csproj.CoreCompileInputs.cache
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\bin\Debug\netcoreapp2.1\BasicProgramsDemo.deps.json
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\bin\Debug\netcoreapp2.1\BasicProgramsDemo.runtimeconfig.json
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\bin\Debug\netcoreapp2.1\BasicProgramsDemo.runtimeconfig.dev.json
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\bin\Debug\netcoreapp2.1\BasicProgramsDemo.dll
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\bin\Debug\netcoreapp2.1\BasicProgramsDemo.pdb
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\obj\Debug\netcoreapp2.1\BasicProgramsDemo.dll
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\obj\Debug\netcoreapp2.1\BasicProgramsDemo.pdb
+C:\Users\mahesh\source\repos\BasicProgramsDemo\BasicProgramsDemo\obj\Debug\netcoreapp2.1\BasicProgramsDemo.genruntimeconfig.cache
